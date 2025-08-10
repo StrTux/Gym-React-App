@@ -1,0 +1,46 @@
+my-portfolio/
+├── public/
+│   ├── assets/
+│   ├── index.html
+│   └── favicon.ico
+├── src/
+│   ├── assets/
+│   ├── components/
+│   │   ├── Navbar/
+│   │   │   ├── Navbar.jsx
+│   │   │   ├── Navbar.css
+│   │   │   └── index.js
+│   │   ├── Sidebar/
+│   │   │   ├── Sidebar.jsx
+│   │   │   ├── Sidebar.css
+│   │   │   └── index.js
+│   │   ├── Footer/
+│   │   │   ├── Footer.jsx
+│   │   │   ├── Footer.css
+│   │   │   └── index.js
+│   │   ├── ProjectCard/
+│   │   │   ├── ProjectCard.jsx
+│   │   │   ├── ProjectCard.css
+│   │   │   └── index.js
+│   │   └── ContactForm/
+│   │       ├── ContactForm.jsx
+│   │       ├── ContactForm.css
+│   │       └── index.js
+│   ├── pages/
+│   │   ├── Home.jsx
+│   │   ├── About.jsx
+│   │   ├── Projects.jsx
+│   │   └── Contact.jsx
+│   ├── styles/
+│   │   └── global.css
+│   ├── App.jsx
+│   ├── main.jsx
+│   └── router.jsx
+├── .gitignore
+├── package.json
+├── README.md
+└── vite.config.js
+ 
+
+
+ this si thee  folder strucute 
